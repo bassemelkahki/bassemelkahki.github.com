@@ -4,7 +4,7 @@
   <title><![CDATA[Notes]]></title>
   <link href="http://bassemelkahki.github.com/atom.xml" rel="self"/>
   <link href="http://bassemelkahki.github.com/"/>
-  <updated>2013-02-09T21:48:36+02:00</updated>
+  <updated>2013-02-09T22:05:10+02:00</updated>
   <id>http://bassemelkahki.github.com/</id>
   <author>
     <name><![CDATA[Bassem El-Kahki]]></name>
@@ -18,7 +18,7 @@
     <link href="http://bassemelkahki.github.com/blog/2013/02/09/hello-world/"/>
     <updated>2013-02-09T21:27:00+02:00</updated>
     <id>http://bassemelkahki.github.com/blog/2013/02/09/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>Octopress is setup.. This is the traditional Hello World post..</h1>
 ]]></content>
   </entry>
   
