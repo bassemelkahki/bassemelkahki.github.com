@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Notes]]></title>
+  <link href="http://bassemelkahki.github.com/atom.xml" rel="self"/>
+  <link href="http://bassemelkahki.github.com/"/>
+  <updated>2013-02-09T21:48:36+02:00</updated>
+  <id>http://bassemelkahki.github.com/</id>
+  <author>
+    <name><![CDATA[Bassem El-Kahki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://bassemelkahki.github.com/blog/2013/02/09/hello-world/"/>
+    <updated>2013-02-09T21:27:00+02:00</updated>
+    <id>http://bassemelkahki.github.com/blog/2013/02/09/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
