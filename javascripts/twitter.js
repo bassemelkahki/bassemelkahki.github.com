@@ -1,9 +1,9 @@
 (function($){
-	$.fn.getTwitterFeed = function(userid, count, reply){
+	$.fn.getTwitterFeed = function(userid, count, reply, speed){
 		var banner = $(this),
 			feed = banner.find('.feed'),
 			interval = 10000,
-			speed = 500;
+			speed = speed;
 
 		var linkify = function(text){
 			text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a>').replace(/(^|\W)@(\w+)/g, '$1<a href="http://twitter.com/$2">@$2</a>').replace(/(^|\W)#(\w+)/g, '$1<a href="http://search.twitter.com/search?q=%23$2">#$2</a>');
