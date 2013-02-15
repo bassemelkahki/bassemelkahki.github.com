@@ -1,8 +1,8 @@
 (function($){
-	$.fn.getTwitterFeed = function(userid, count, reply, speed){
+	$.fn.getTwitterFeed = function(userid, count, reply, speed, interval){
 		var banner = $(this),
 			feed = banner.find('.feed'),
-			interval = 10000,
+			interval = interval,
 			speed = speed;
 
 		var linkify = function(text){
