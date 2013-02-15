@@ -10,6 +10,7 @@
 <script type="text/javascript">
 	(function($){
 		$('#banner').getTwitterFeed('{{ site.twitter_user }}', {{ site.twitter_tweet_count }}, {{ site.twitter_show_replies }});
-	})(jQuery);
+			speed = 1000;
+})(jQuery);
 </script>
 {% endif %}
